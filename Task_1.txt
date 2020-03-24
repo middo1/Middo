@@ -1,0 +1,6 @@
+Name : Balogun Hamid
+Email : hamidadeshina1@gmail.com
+Tracks : UI/UX design
+         Frontend
+         Backend
+Courses : Figma, Python, nodejs, java script, HTML, CSS, Go, Ruby
